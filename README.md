@@ -1,16 +1,21 @@
-### Hi there 👋
+##  Hi there, I'm Jaron Wanderley `jrnwn`👑
 
-<!--
-**jaronwanderley/jaronwanderley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  💻 Frontend developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a lightweight directives to use on progressive enhancement Frameworks like (Petite Vue, Alpine.js and Z-data).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I’m currently learning Cloudflare edge computing (Workers, KV, durable objects, Wrangler, Hono.js).
+
+- 💬 Ask me about JavaScript, Vue.js, SVG, IndexDB, SVG, Animations.
+
+- ⚡ Fun fact: I have a degree in mechatronics engineering, and I studing game develop.
+
+<hr />
+
+###  Stats
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaronwanderley&layout=compact&show_icons=true&theme=dark" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaronwanderley&layout=compact&langs_count=8&theme=dark&hide=css,scss,html,tex,makefile" />
+</div>
